@@ -56,5 +56,3 @@ class ATM
     int n = atm.countBanknotes(3976);
   }
 }
-
-
