@@ -48,7 +48,6 @@ class ATM
     num += (sum - sum % 1)/1;
     sum = sum % 1;
     }
-    
     return num;
   }
   public static void main(String[] args)
